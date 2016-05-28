@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pet Containment</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mainButton">Change Region</string>
+    <string name="saveButton">Save</string>
+    <string name="resetButton">Reset</string>
+    <string name="enterButton">Enter</string>
+</resources>
