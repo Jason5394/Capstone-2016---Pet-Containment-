@@ -35,6 +35,6 @@ The algorithm used to determine if the pet exceeds the boundary is the Ray Casti
 - Jonathan Chang: Documentation and Testing
 - Chao Duan: Integration of mobile app and Pi
 
-Note: This repository only contains the mobile app part of the project.  The Pi code, as well as the full report and a demo video can 
-be found here:
+Note: This repository only contains the mobile app part of the project.  The Pi code, as well as the full report and poster can 
+be found here: https://drive.google.com/drive/folders/0B_Y8veLaOeP3a3VzNWQzRmdwNUk
   
